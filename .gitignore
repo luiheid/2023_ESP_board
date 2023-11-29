@@ -1,0 +1,14 @@
+esp-rainmaker/CHANGES.md
+esp-rainmaker/cli/
+esp-rainmaker/components/
+esp-rainmaker/docs/
+esp-rainmaker/LICENSE
+esp-rainmaker/README.md
+esp-rainmaker/examples/common/
+esp-rainmaker/examples/light/sdkconfig 
+esp-rainmaker/examples/light/sdkconfig.old 
+esp-rainmaker/examples/light/build/ 
+esp-rainmaker/examples/light/managed_components/
+esp-rainmaker/examples/light/dependencies.lock
+esp-receiver/uart_recv/build/log/
+.DS_Store

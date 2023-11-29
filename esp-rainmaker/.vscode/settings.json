@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "task.h": "c",
+        "esp_rmaker_ota.h": "c",
+        "sdkconfig.h": "c",
+        "esp_rmaker_standard_types.h": "c",
+        "esp_rmaker_core.h": "c",
+        "esp_rmaker_standard_params.h": "c",
+        "esp_rmaker_console.h": "c"
+    }
+}
